@@ -1,0 +1,14 @@
+.backb,
+.backy{
+font-size: 28px;
+font-family: Helvetica,'Times New Roman', sans-serif;
+}
+
+.backb {
+background-color: black;
+color: white;
+}
+
+.backy{
+background-color: yellow;
+}

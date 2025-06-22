@@ -1,0 +1,20 @@
+.odd-number {
+background-color: rgb(235, 107, 235);
+font-family: verdana, DejaVu Sans, sans-serif;
+}
+
+#one-ID {
+color: blue;
+font-size: 36px;
+}
+
+#another-ID {
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+}
+ 
+.adjust-font-size {
+font-size: 24px;
+
+}
